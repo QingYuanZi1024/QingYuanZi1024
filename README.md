@@ -32,7 +32,7 @@ I am interested in systems that learn, worlds that react, and markets that hide 
 
 ## Beyond the Papers: My Multiverse
 
-- **AI Research**: I explore how models learn structure, reason under uncertainty, and extend human cognition at machine scale.
+- **AI-Related Philosophy**: I explore how models learn structure, reason under uncertainty, and extend human cognition at machine scale.
 - **Indie Game Development**: I build small but complete worlds where mechanics, aesthetics, and emotion converge.
 - **Quantitative Finance**: I search for robust signals inside noisy systems, where probability becomes a language of decision.
 - **Complex Systems**: I am fascinated by emergence, feedback loops, nonlinear dynamics, and hidden order.
