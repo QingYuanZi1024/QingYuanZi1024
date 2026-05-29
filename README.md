@@ -33,7 +33,7 @@ I am interested in systems that learn, worlds that react, and markets that hide 
 ## Beyond the Papers: My Multiverse
 
 - **AI-Related Philosophy**: Human-Centeredness in the Age of Acceleration; the Paradigm Shift Toward Post-Anthropocentrism; the Subjectivity and Intersubjectivity of Agents.
-- **Indie Game Development**: Visual novel, tabletop RPG, and CRPG enthusiast — dreaming of one day making something as great as Disco Elysium and ever17.
+- **Indie Game Development**: Visual novel, tabletop RPG, and CRPG enthusiast — dreaming of one day making something as great as *Disco Elysium* and *Ever17*.
 - **Quantitative Finance**: I search for robust signals inside noisy systems, where probability becomes a language of decision.
 - **Complex Systems**: I am fascinated by emergence, feedback loops, nonlinear dynamics, and hidden order.
 
