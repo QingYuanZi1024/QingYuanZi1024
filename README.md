@@ -36,3 +36,8 @@ My research lies at the intersection of Large Language Models and Agentic AI, fo
 
 </div> 
 
+> *千万个你*
+> *渺小的无法从此辨别*
+> *就像拜科努尔的沙*
+> 
+> —— *“科罗廖夫十字绽开，卡门线上化作花束”【航天史填词】 (2025)*
