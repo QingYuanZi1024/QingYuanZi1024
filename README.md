@@ -18,17 +18,7 @@
 
 </div>
 
-My work moves across **Artificial Intelligence**, **Independent Game Development**, and **Quantitative Research**.
-
-I am interested in systems that learn, worlds that react, and markets that hide structure inside noise.
-
-| Direction | Core Interest | Current Focus |
-|---|---|---|
-| **AI Research** | Intelligence, reasoning, generation | LLMs, agents, reinforcement learning, representation learning |
-| **Indie Games** | Mechanics, emotion, worldbuilding | Gameplay systems, procedural worlds, interactive storytelling |
-| **Quant Research** | Signal, uncertainty, risk | Time series, factor research, backtesting, market microstructure |
-
----
+My research lies at the intersection of Large Language Models and Agentic AI, focusing on how autonomous agents plan, reason, and act in complex, open-ended environments. I am particularly interested in multi-agent systems—how agents coordinate, communicate, and even compete to achieve collective goals, and how useful behaviors emerge from their interactions. Reinforcement learning is a central thread throughout my work, serving as the key lever for enhancing the decision-making and long-horizon planning capabilities of LLM-based agents. This research interest is complemented by hands-on industry experience in LLM post-training—spanning reinforcement learning from human feedback, instruction tuning, and alignment—which grounds my understanding of how these techniques translate from theory into production-scale systems. Ultimately, I aim to build agentic systems that are more capable, reliable, and aligned with human intentions, and I believe that AGI will be achieved through AI bootstrapping and self-evolution.
 
 <div align="center">
 
