@@ -7,6 +7,7 @@
 
 
 > *La dialectique est la vie profonde de cette contradiction, la série des progrès qu'elle accomplit. Une histoire qui se fait et qui cependant est à faire, un sens qui n’est jamais nul, mais toujours à rectifier, à reprendre, à maintenir contre les hasards, un savoir qu’aucun irrationnel positif ne limite, mais qui pourtant ne contient pas actuellement la totalité du réel accompli et à accomplir, et dont le pouvoir d’exhaustion est à prouver par le fait, une histoire-réalité qui est juge ou critère de toutes nos pensées, mais qui elle-même n’est autre chose que l’avènement de la conscience, de sorte que nous n’avons pas à lui obéir passivement, mais à la penser selon nos propres forces.*
+> 
 > —— *Les aventures de la dialectique*
 
 ---
