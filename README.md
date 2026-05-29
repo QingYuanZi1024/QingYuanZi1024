@@ -32,7 +32,7 @@ My research lies at the intersection of Large Language Models and Agentic AI, fo
 
 <div align="center">
 
-# ✦ More of QingYuanZi/氢原子 ✦
+# ✦ More about QingYuanZi/氢原子 ✦
 
 </div> 
 
