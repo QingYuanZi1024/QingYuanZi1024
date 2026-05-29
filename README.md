@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# ✦ How about 氢原子 ✦
+# ✦ My Research ✦
 
 </div>
 
@@ -30,7 +30,7 @@ I am interested in systems that learn, worlds that react, and markets that hide 
 
 ---
 
-## Beyond the Papers: My Multiverse
+# ✦ Beyond Research: My Multiverse ✦
 
 - **AI-Related Philosophy**: Human-Centeredness in the Age of Acceleration; the Paradigm Shift Toward Post-Anthropocentrism; the Subjectivity and Intersubjectivity of Agents.
 - **Indie Game Development**: Visual novel, tabletop RPG, and CRPG enthusiast — dreaming of one day making something as great as *Disco Elysium* and *Ever17*.
