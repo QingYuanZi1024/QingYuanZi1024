@@ -44,7 +44,6 @@ I am interested in systems that learn, worlds that react, and markets that hide 
 - **AI Systems**: experiments on agents, reasoning pipelines, generative models, and learning frameworks.
 - **Game Prototypes**: independent game mechanics, simulation systems, narrative experiments, and procedural generation.
 - **Quant Tools**: research notebooks, factor analysis, backtesting engines, and risk modeling utilities.
-- **Creative Coding**: visual experiments, interactive systems, and tools for thinking.
 
 ---
 
