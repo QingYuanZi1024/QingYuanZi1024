@@ -3,29 +3,10 @@
 # ✦ 氢原子 ✦
 
 
-
-<br>
-
-
-> *他会拿起一块蓝色玻璃，透过它看花园，花园里的沙地和路径会变成一种灰烬般的颜色，天空则变得异常深邃，仿佛热带的天空。*  
-> — 《说吧，记忆》，弗拉基米尔·纳博科夫
-
 <br/>
 
 
-> **La dialectique est la vie profonde de cette contradiction,  
-> la série des progrès qu'elle accomplit.**
->
-> Une histoire qui se fait et qui cependant est à faire,  
-> un sens qui n’est jamais nul, mais toujours à rectifier,  
-> à reprendre, à maintenir contre les hasards,  
-> un savoir qu’aucun irrationnel positif ne limite,  
-> mais qui pourtant ne contient pas actuellement la totalité du réel accompli et à accomplir,  
-> et dont le pouvoir d’exhaustion est à prouver par le fait,  
-> une histoire-réalité qui est juge ou critère de toutes nos pensées,  
-> mais qui elle-même n’est autre chose que l’avènement de la conscience,  
-> de sorte que nous n’avons pas à lui obéir passivement,  
-> mais à la penser selon nos propres forces.
+> La dialectique est la vie profonde de cette contradiction, la série des progrès qu'elle accomplit. Une histoire qui se fait et qui cependant est à faire, un sens qui n’est jamais nul, mais toujours à rectifier, à reprendre, à maintenir contre les hasards, un savoir qu’aucun irrationnel positif ne limite, mais qui pourtant ne contient pas actuellement la totalité du réel accompli et à accomplir, et dont le pouvoir d’exhaustion est à prouver par le fait, une histoire-réalité qui est juge ou critère de toutes nos pensées, mais qui elle-même n’est autre chose que l’avènement de la conscience, de sorte que nous n’avons pas à lui obéir passivement, mais à la penser selon nos propres forces.
 >
 > —— *Les aventures de la dialectique*
 
