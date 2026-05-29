@@ -12,7 +12,7 @@
 > —— *Maurice Merleau-Ponty, Les aventures de la dialectique. (1955)*
 
 
-## Recent Research & Directions
+## ✦ How about 氢原子 ✦
 
 My work moves across **Artificial Intelligence**, **Independent Game Development**, and **Quantitative Research**.
 
