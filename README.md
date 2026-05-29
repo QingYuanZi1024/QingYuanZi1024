@@ -35,7 +35,6 @@ I am interested in systems that learn, worlds that react, and markets that hide 
 - **AI-Related Philosophy**: Human-Centeredness in the Age of Acceleration; the Paradigm Shift Toward Post-Anthropocentrism; the Subjectivity and Intersubjectivity of Agents.
 - **Indie Game Development**: Visual novel, tabletop RPG, and CRPG enthusiast — dreaming of one day making something as great as *Disco Elysium* and *Ever17*.
 - **Quantitative Finance**: Leveraging data and models to discover and reliably monetize predictable patterns across markets, including A-shares, Hong Kong equities, NASDAQ, and cryptocurrencies.
-- **Complex Systems**: I am fascinated by emergence, feedback loops, nonlinear dynamics, and hidden order.
 
 ---
 
