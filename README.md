@@ -1,10 +1,8 @@
 <div align="center">
 
-# ✦ 氢原子 ✦
+# ✦ Hi, here is 氢原子 ✦
 
 </div>
-
----
 
 <br/>
 
@@ -13,7 +11,6 @@
 > 
 > —— *Maurice Merleau-Ponty, Les aventures de la dialectique. (1944)*
 
----
 
 ## Recent Research & Directions
 
