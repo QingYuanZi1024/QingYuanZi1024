@@ -14,7 +14,7 @@
 
 <div align="center">
 
-# ✦ My Research ✦
+# ✦ My Research and Interest ✦
 
 </div>
 
