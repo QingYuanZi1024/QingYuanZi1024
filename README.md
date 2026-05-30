@@ -29,6 +29,7 @@ My research lies at the intersection of Large Language Models and Agentic AI, fo
 - **AI-Related Philosophy**: Human-Centeredness in the Age of Acceleration; the Paradigm Shift Toward Post-Anthropocentrism; the Subjectivity and Intersubjectivity of Agents.
 - **Indie Game Development**: Visual novel, tabletop RPG, and CRPG enthusiast — dreaming of one day making something as great as *Disco Elysium* and *Ever17*.
 - **Quantitative Finance**: Leveraging data and models to discover and reliably monetize predictable patterns across markets, including A-shares, Hong Kong equities, NASDAQ, and cryptocurrencies.
+- **Systems Science & Engineering**: Thinking in feedback loops, emergence, and hierarchies — applying system dynamics and cybernetics to architect and steer complex sociotechnical systems where reductionism fails.
 
 <div align="center">
 
