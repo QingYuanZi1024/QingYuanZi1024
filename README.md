@@ -41,8 +41,7 @@ My research lies at the intersection of Large Language Models and Agentic AI, fo
 > *就像拜科努尔的沙*
 > *也许泪水不觉间已落下*
 > *因为此刻国境线正在眼中融化*
-> 
-> *化作流星 化作晚风*
+  *化作流星 化作晚风*
 > *化作朵飘落的花*
 > *100公里还只是个起点*
 > *更远的天空(Небо)*
